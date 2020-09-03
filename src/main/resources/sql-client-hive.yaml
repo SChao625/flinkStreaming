@@ -1,0 +1,6 @@
+catalogs: # empty list
+  - name: myhive
+    type: hive
+    hive-conf-dir: /opt/modules/hive-1.1.0-cdh5.14.2/conf
+    hive-version: 1.1.0
+    default-database: default
